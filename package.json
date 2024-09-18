@@ -456,7 +456,7 @@
     "path-browserify": "^1.0.1",
     "postcss": "^8.2.6",
     "pug": "^3.0.0",
-    "sass": "^1.32.7",
+    "sass": "^1.79.0",
     "sass.js": "^0.11.1",
     "stream-browserify": "^3.0.0",
     "svelte": "^3.32.3",
