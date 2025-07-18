@@ -443,7 +443,7 @@
     "webpack-cli": "^4.3.0"
   },
   "dependencies": {
-    "@vue/component-compiler": "^4.2.3",
+    "@vue/component-compiler": "^4.2.4",
     "axios": "^0.21.0",
     "case": "^1.6.3",
     "dayjs": "^1.9.8",
